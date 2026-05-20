@@ -25,7 +25,6 @@ https://tewitter-clone.vercel.app/
 React
 Vite
 Tailwind CSS
-JavaScript
 
 ---
 
